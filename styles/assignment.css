@@ -46,8 +46,8 @@
 .off {
     text-align: center;
     height: 600px;
-    width: 1300px;
-    margin-left: 150px;
+    /* width: 1200px; */
+    margin-left: 100px;
 }
 
 .section {
@@ -117,7 +117,9 @@
 .display {
     width: 319.83px;
     height: 464.662px;
-    padding: 0.008px 138px 0px 0px;
+    padding: 0.008px 0px 0px 0px;
+    margin-top: 100px;
+    margin-left: 200px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
